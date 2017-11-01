@@ -1,3 +1,3 @@
-"1" .to_i + 1 #=> 11
+1 + 1
 
-"1" + {is the loneliest number}.to_s
++1.to_s + "is the loneliest number"
