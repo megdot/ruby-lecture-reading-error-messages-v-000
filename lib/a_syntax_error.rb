@@ -1,3 +1,3 @@
 if x = 1
 
-eval 'x'
+def 'x'
