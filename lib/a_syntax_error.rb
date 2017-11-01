@@ -1,4 +1,4 @@
 if x = 1
 
-eval x  
+x =
 end
