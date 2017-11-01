@@ -1,4 +1,4 @@
-"hello world" do
+"hello world"
 
-load hello_world
+do hello_world
 end
