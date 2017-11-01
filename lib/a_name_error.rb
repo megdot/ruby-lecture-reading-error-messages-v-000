@@ -1,3 +1,4 @@
-describe "hello world"
+describe "hello world" do
 
 hello_world
+end
