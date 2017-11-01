@@ -1,4 +1,4 @@
-describe "hello world" do
+"hello world" do
 
 load hello_world
 end
