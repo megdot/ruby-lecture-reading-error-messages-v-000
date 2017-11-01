@@ -1,4 +1,4 @@
-"hello world"
-do
+do "hello world"
+
 hello_world
 end
