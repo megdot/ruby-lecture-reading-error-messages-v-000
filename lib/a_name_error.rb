@@ -1,3 +1,4 @@
 "hello world"
-
-puts hello_world
+do
+hello_world
+end
